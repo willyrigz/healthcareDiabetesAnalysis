@@ -152,6 +152,9 @@ These findings suggest that while the difference in readmission rates between ge
 
 View the interactive Tableau dashboard here: 
 
+![image](/HbA1cViz.png)
+
+
 [**Visualizing HbA1c Testing and Readmissions**](https://public.tableau.com/views/HealthCareDiabetes_17359138048600/VisualizingDiabetesManagementandReadmissions?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 This dashboard highlights key insights, including testing gaps, demographic risks, and the relationship between HbA1c testing and readmission rates.
